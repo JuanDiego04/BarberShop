@@ -27,6 +27,7 @@
               }
             ],
             "styles": [
+              "src/assets/plugins/fontawesome-free/css/all.min.css",
               "src/styles.css"
             ],
             "scripts": [],
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "89413aec-9e69-48a2-abbe-b75c4b85e323"
   }
 }
